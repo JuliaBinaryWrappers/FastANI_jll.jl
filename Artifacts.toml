@@ -1,0 +1,252 @@
+[[FastANI]]
+arch = "aarch64"
+git-tree-sha1 = "ad56c4f0fe917852b965695267f0043469ec8d2a"
+os = "macos"
+
+    [[FastANI.download]]
+    sha256 = "f2ec24572cd31e715a348d2040c27f21dd3f23b4f16b30a65f98608f610d0064"
+    url = "https://github.com/JuliaBinaryWrappers/FastANI_jll.jl/releases/download/FastANI-v1.33.0+0/FastANI.v1.33.0.aarch64-apple-darwin.tar.gz"
+[[FastANI]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "298b76bfb9ef6cae13ced5d763a47cbb30a75fc4"
+libc = "glibc"
+os = "linux"
+
+    [[FastANI.download]]
+    sha256 = "0d4a3633c55e167bfe48b801ec39db45d7ec261ae5f49aa30674372a0eaf0b53"
+    url = "https://github.com/JuliaBinaryWrappers/FastANI_jll.jl/releases/download/FastANI-v1.33.0+0/FastANI.v1.33.0.aarch64-linux-gnu-cxx03.tar.gz"
+[[FastANI]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "6a00a5374dcfa7450eeb4d97c83be363c0232b02"
+libc = "glibc"
+os = "linux"
+
+    [[FastANI.download]]
+    sha256 = "6cdab9122362d162f92cf9baf16c492f34700caa7da1d18c5a251179527a024f"
+    url = "https://github.com/JuliaBinaryWrappers/FastANI_jll.jl/releases/download/FastANI-v1.33.0+0/FastANI.v1.33.0.aarch64-linux-gnu-cxx11.tar.gz"
+[[FastANI]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "a20a086044c860d3db4cdcbaa9e54d0654cc5775"
+libc = "musl"
+os = "linux"
+
+    [[FastANI.download]]
+    sha256 = "ff81bf20b3572e15deb6c22c714327f92567c73d82b1609f18cd4935dc81bd17"
+    url = "https://github.com/JuliaBinaryWrappers/FastANI_jll.jl/releases/download/FastANI-v1.33.0+0/FastANI.v1.33.0.aarch64-linux-musl-cxx03.tar.gz"
+[[FastANI]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "4f091441d9247ed3820b55e50445f2c7883412f8"
+libc = "musl"
+os = "linux"
+
+    [[FastANI.download]]
+    sha256 = "27225e17e5059e2e2fe361eb9a18ae7ae3db8d8d6cbe216edb1a6d6c578c954e"
+    url = "https://github.com/JuliaBinaryWrappers/FastANI_jll.jl/releases/download/FastANI-v1.33.0+0/FastANI.v1.33.0.aarch64-linux-musl-cxx11.tar.gz"
+[[FastANI]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "28f38676565194c334100136fe1f877e2ca0a77b"
+libc = "glibc"
+os = "linux"
+
+    [[FastANI.download]]
+    sha256 = "6f3f216863275b9045ccd6fce23d11db4b2e534b5241b21e6aa3b6913b35ac60"
+    url = "https://github.com/JuliaBinaryWrappers/FastANI_jll.jl/releases/download/FastANI-v1.33.0+0/FastANI.v1.33.0.armv6l-linux-gnueabihf-cxx03.tar.gz"
+[[FastANI]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "b6d92e87bbefeee263765b366c613014f4655855"
+libc = "glibc"
+os = "linux"
+
+    [[FastANI.download]]
+    sha256 = "01920a3e7e55478764a533795ad358effa65fb7c0b3fceeafc263d2f8cb1cad1"
+    url = "https://github.com/JuliaBinaryWrappers/FastANI_jll.jl/releases/download/FastANI-v1.33.0+0/FastANI.v1.33.0.armv6l-linux-gnueabihf-cxx11.tar.gz"
+[[FastANI]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "b4de733ddcfe94ae947e364ace5e3dd6dcf58395"
+libc = "musl"
+os = "linux"
+
+    [[FastANI.download]]
+    sha256 = "c6e7237cf67e9821b6437f1bae406949ca1c0b31722894e70393c2b17b6d63f3"
+    url = "https://github.com/JuliaBinaryWrappers/FastANI_jll.jl/releases/download/FastANI-v1.33.0+0/FastANI.v1.33.0.armv6l-linux-musleabihf-cxx03.tar.gz"
+[[FastANI]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "f60453514adbfe022cd238503fa7acf579ff74fc"
+libc = "musl"
+os = "linux"
+
+    [[FastANI.download]]
+    sha256 = "f1941006c3384b2129201c5f888ab7df5508a79559b5f22dfeaa2889a63b3b31"
+    url = "https://github.com/JuliaBinaryWrappers/FastANI_jll.jl/releases/download/FastANI-v1.33.0+0/FastANI.v1.33.0.armv6l-linux-musleabihf-cxx11.tar.gz"
+[[FastANI]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "2c821cdd18fd868c1828c3e4a617e18c3f3be3fd"
+libc = "glibc"
+os = "linux"
+
+    [[FastANI.download]]
+    sha256 = "3c05e0afd5a9cf601be4dabf561f9f8807a0ec04bc798df8ca9cb971ab2890f9"
+    url = "https://github.com/JuliaBinaryWrappers/FastANI_jll.jl/releases/download/FastANI-v1.33.0+0/FastANI.v1.33.0.armv7l-linux-gnueabihf-cxx03.tar.gz"
+[[FastANI]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "86ac20935c9191c0a358be90b64a07e8e923d4ec"
+libc = "glibc"
+os = "linux"
+
+    [[FastANI.download]]
+    sha256 = "9e704d13babd618c55f0faa71bec37e7c4fd1c9f7e8dc5b33fac29b63a26bc5d"
+    url = "https://github.com/JuliaBinaryWrappers/FastANI_jll.jl/releases/download/FastANI-v1.33.0+0/FastANI.v1.33.0.armv7l-linux-gnueabihf-cxx11.tar.gz"
+[[FastANI]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "9b6f5177868028781a066b699b2b49784a04aaad"
+libc = "musl"
+os = "linux"
+
+    [[FastANI.download]]
+    sha256 = "65600b144db98cfe3604b8c7f4bd392e7f8ac40d816e02dbcc2b3ff88f593448"
+    url = "https://github.com/JuliaBinaryWrappers/FastANI_jll.jl/releases/download/FastANI-v1.33.0+0/FastANI.v1.33.0.armv7l-linux-musleabihf-cxx03.tar.gz"
+[[FastANI]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "9a00b5c2a3745c1e5ed9509d8ae5b09ea14c9129"
+libc = "musl"
+os = "linux"
+
+    [[FastANI.download]]
+    sha256 = "137711ff28a091be140caa669a22644b5fad89c5ab863b585a15299f7009bc10"
+    url = "https://github.com/JuliaBinaryWrappers/FastANI_jll.jl/releases/download/FastANI-v1.33.0+0/FastANI.v1.33.0.armv7l-linux-musleabihf-cxx11.tar.gz"
+[[FastANI]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "f195ea905350aea5ae02770928eec68404a8c508"
+libc = "glibc"
+os = "linux"
+
+    [[FastANI.download]]
+    sha256 = "de24ad7b3fb47d5d358c3055d4014284da62734f07743ef800f81cb44f93df86"
+    url = "https://github.com/JuliaBinaryWrappers/FastANI_jll.jl/releases/download/FastANI-v1.33.0+0/FastANI.v1.33.0.i686-linux-gnu-cxx03.tar.gz"
+[[FastANI]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "479ab22f1aa353d2c32577e85bc123ba325b3344"
+libc = "glibc"
+os = "linux"
+
+    [[FastANI.download]]
+    sha256 = "4c5c91906ae85d7a849d71e7a8bb6bf453b7e29a604bc5ed35c9d3f460ca3043"
+    url = "https://github.com/JuliaBinaryWrappers/FastANI_jll.jl/releases/download/FastANI-v1.33.0+0/FastANI.v1.33.0.i686-linux-gnu-cxx11.tar.gz"
+[[FastANI]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "2904b4bc4256d1309fbc6cb43834744e9a67165b"
+libc = "musl"
+os = "linux"
+
+    [[FastANI.download]]
+    sha256 = "4dd243d3d17dcdc19d917bbacda66eb7794c21ee456aacb5ad3a718c9f965dc8"
+    url = "https://github.com/JuliaBinaryWrappers/FastANI_jll.jl/releases/download/FastANI-v1.33.0+0/FastANI.v1.33.0.i686-linux-musl-cxx03.tar.gz"
+[[FastANI]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "fc0ec1ac594460514be211e4f602913c773e40de"
+libc = "musl"
+os = "linux"
+
+    [[FastANI.download]]
+    sha256 = "2c2b2ec22c54ff87892834d902b04dbbdd1a20e17df929cb47630b14796b7f2d"
+    url = "https://github.com/JuliaBinaryWrappers/FastANI_jll.jl/releases/download/FastANI-v1.33.0+0/FastANI.v1.33.0.i686-linux-musl-cxx11.tar.gz"
+[[FastANI]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "a78e336bc72978cf621ee8e02e1ef2c010e0047d"
+libc = "glibc"
+os = "linux"
+
+    [[FastANI.download]]
+    sha256 = "d5074cb2cdcdcef173f6d80f1d53aa6c0fb7462d2a3e64da0f41a93eec6a9ef8"
+    url = "https://github.com/JuliaBinaryWrappers/FastANI_jll.jl/releases/download/FastANI-v1.33.0+0/FastANI.v1.33.0.powerpc64le-linux-gnu-cxx03.tar.gz"
+[[FastANI]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "0bb25920f6bfed02440e57549c2eac5fd6937a8d"
+libc = "glibc"
+os = "linux"
+
+    [[FastANI.download]]
+    sha256 = "26aef1c8dc38062f2944155bbf2bec81c5ee88b476cae1f4fab558db837e517f"
+    url = "https://github.com/JuliaBinaryWrappers/FastANI_jll.jl/releases/download/FastANI-v1.33.0+0/FastANI.v1.33.0.powerpc64le-linux-gnu-cxx11.tar.gz"
+[[FastANI]]
+arch = "x86_64"
+git-tree-sha1 = "b91195702c2af90c5ce2b40196b61da3c40bc5b8"
+os = "macos"
+
+    [[FastANI.download]]
+    sha256 = "7c0633dc1d47dcafbe35c99503d18bccb7252ba238aaf6671c9c90c9a92ccdc1"
+    url = "https://github.com/JuliaBinaryWrappers/FastANI_jll.jl/releases/download/FastANI-v1.33.0+0/FastANI.v1.33.0.x86_64-apple-darwin.tar.gz"
+[[FastANI]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "7037504abf4ec935e06a11eecb76837f68c0a54f"
+libc = "glibc"
+os = "linux"
+
+    [[FastANI.download]]
+    sha256 = "185ace7f441a478fe47ffa6980d4b3943df65975bf090048a40f396a3f65f2a0"
+    url = "https://github.com/JuliaBinaryWrappers/FastANI_jll.jl/releases/download/FastANI-v1.33.0+0/FastANI.v1.33.0.x86_64-linux-gnu-cxx03.tar.gz"
+[[FastANI]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "3804aeeedd511a74e3216b7551fda62a70cfc8a2"
+libc = "glibc"
+os = "linux"
+
+    [[FastANI.download]]
+    sha256 = "8928fb0e18c6027654ca0b6260e5a85f04fd1b302a4e50815411120a4fa3bfcc"
+    url = "https://github.com/JuliaBinaryWrappers/FastANI_jll.jl/releases/download/FastANI-v1.33.0+0/FastANI.v1.33.0.x86_64-linux-gnu-cxx11.tar.gz"
+[[FastANI]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "0442b402e837b40e23a5a836e5d64abc88ef56b4"
+libc = "musl"
+os = "linux"
+
+    [[FastANI.download]]
+    sha256 = "420119ec1b7c04aee6327d2841a0f2277634ad27e9f582205a8d996ab2ea3261"
+    url = "https://github.com/JuliaBinaryWrappers/FastANI_jll.jl/releases/download/FastANI-v1.33.0+0/FastANI.v1.33.0.x86_64-linux-musl-cxx03.tar.gz"
+[[FastANI]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "c0673ec7d4d1816373005c63569c71488eaee151"
+libc = "musl"
+os = "linux"
+
+    [[FastANI.download]]
+    sha256 = "d43008e50c9da2db7aaef4c0d2d36096cad49a89129c13a677c38e3f00f5f6ec"
+    url = "https://github.com/JuliaBinaryWrappers/FastANI_jll.jl/releases/download/FastANI-v1.33.0+0/FastANI.v1.33.0.x86_64-linux-musl-cxx11.tar.gz"
+[[FastANI]]
+arch = "x86_64"
+git-tree-sha1 = "166d746c7cc06bde98f06e12598dd4790d9a42e4"
+os = "freebsd"
+
+    [[FastANI.download]]
+    sha256 = "07caebab48852bf7262f271ebe7577371750bc1354a932c8cec3ce4f395cccf7"
+    url = "https://github.com/JuliaBinaryWrappers/FastANI_jll.jl/releases/download/FastANI-v1.33.0+0/FastANI.v1.33.0.x86_64-unknown-freebsd.tar.gz"
